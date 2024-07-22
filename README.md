@@ -1,2 +1,1 @@
-# TESTNET SWISS ERC 20
- TESTNET SWISS ERC 20
+# Try swisstronik erc20
